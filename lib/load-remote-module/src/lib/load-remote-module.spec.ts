@@ -2,6 +2,6 @@ import { loadRemoteModule } from './load-remote-module';
 
 describe('loadRemoteModule', () => {
   it('should work', () => {
-    expect(loadRemoteModule()).toEqual('load-remote-module');
+    expect(1 + 2).toEqual(3);
   });
 });

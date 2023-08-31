@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "load-remote-module": ["load-remote-module/src/index.ts"]
+      "load-remote-module": ["lib/load-remote-module/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
